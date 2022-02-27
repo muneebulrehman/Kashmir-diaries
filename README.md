@@ -6,7 +6,7 @@
 
 ## Description
 
-Kashmir Diaries is a tour and travel company based out of Kashmir. Tourists can book a tour from here, explore places to go and book the tours if they like. New tours are updated frequently and our service is as good as our promise to deliver on quality and time. So, what are you waiting for. If you are looking for a destination to spend your vaccations then Kashmir is the place to visit and we are you folks to take care of you through it.
+Kashmir Diaries is a tour and travel company based out of Kashmir. Tourists can book a tour from here, explore places to go and book the tours if they like. New tours are updated frequently and our service is as good as our promise to deliver on quality and time. So, what are you waiting for. If you are looking for a destination to spend your vaccations then Kashmir is the place to visit and we are your folks to take care of you through it.
 
 
 ## Built With
